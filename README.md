@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelpe01&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelpe01" /> </p>
 
-- 🌱 I’m currently learning **Next.JS, Laravel and Kotlin**
+- 🌱 I’m currently learning **Angular and Laravel**
 
 - 💬 Ask me about **C/C++, Java and Python**
 
